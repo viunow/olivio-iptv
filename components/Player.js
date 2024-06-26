@@ -21,7 +21,7 @@ const Player = ({ videoUrl }) => {
   }, [videoUrl]);
 
   return (
-    <div className="player-container border-2 border-white rounded-xl">
+    <div className="player-container border-2 border-white/20 rounded-xl">
       <video
         ref={videoRef}
         controls
