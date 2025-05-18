@@ -12,7 +12,7 @@ const Home = () => {
   useEffect(() => {
     const fetchData = async () => {
       const data = await fetchPlaylist(
-        "https://iptv-org.github.io/iptv/countries/br.m3u"
+        "https://iptv-org.github.io/iptv/languages/por.m3u"
       );
       setPlaylists(data);
     };
