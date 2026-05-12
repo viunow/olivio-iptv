@@ -1,10 +1,11 @@
-import React, { useEffect, useRef } from "react";
-import Hls from "hls.js";
+import React, { useEffect, useRef } from 'react';
+import Hls from 'hls.js';
 
-const Player = ({ videoUrl }) => {
+const Player = ({ videoUrl, isEmbed }) => {
   const videoRef = useRef(null);
 
   useEffect(() => {
+    if (isEmbed) return;
     if (Hls.isSupported()) {
       const hls = new Hls();
       hls.loadSource(videoUrl);
@@ -12,23 +13,38 @@ const Player = ({ videoUrl }) => {
       hls.on(Hls.Events.MANIFEST_PARSED, () => {
         videoRef.current.play();
       });
-    } else if (videoRef.current.canPlayType("application/vnd.apple.mpegurl")) {
+      return () => hls.destroy();
+    } else if (videoRef.current.canPlayType('application/vnd.apple.mpegurl')) {
       videoRef.current.src = videoUrl;
-      videoRef.current.addEventListener("loadedmetadata", () => {
+      videoRef.current.addEventListener('loadedmetadata', () => {
         videoRef.current.play();
       });
     }
-  }, [videoUrl]);
+  }, [videoUrl, isEmbed]);
+
+  if (isEmbed) {
+    return (
+      <div className="w-full h-full">
+        <iframe
+          src={videoUrl}
+          className="w-full h-full rounded-lg"
+          allowFullScreen
+          allow="autoplay; encrypted-media; fullscreen"
+          sandbox="allow-scripts allow-same-origin allow-forms allow-presentation"
+        />
+      </div>
+    );
+  }
 
   return (
-    <div className="player-container border-2 border-white/20 rounded-xl">
+    <div className="w-full h-full bg-black rounded-lg overflow-hidden">
       <video
         ref={videoRef}
         controls
         autoPlay
-        className="w-full h-full rounded-xl"
+        className="w-full h-full object-contain"
       >
-        Your browser does not support the video tag.
+        Seu navegador não suporta vídeo.
       </video>
     </div>
   );
