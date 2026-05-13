@@ -1,32 +1,32 @@
-'use client';
+"use client";
 
-import { useState } from 'react';
+import { useState } from "react";
 
 const PasswordGate = ({ onAuth }) => {
-  const [password, setPassword] = useState('');
-  const [error, setError] = useState('');
+  const [password, setPassword] = useState("");
+  const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
-    setError('');
+    setError("");
 
     try {
-      const res = await fetch('/api/auth', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+      const res = await fetch("/api/auth", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ password }),
       });
 
       if (res.ok) {
-        sessionStorage.setItem('authed', '1');
+        sessionStorage.setItem("authed", "1");
         onAuth();
       } else {
-        setError('Senha incorreta.');
+        setError("Senha incorreta.");
       }
     } catch {
-      setError('Erro ao verificar senha.');
+      setError("Erro ao verificar senha.");
     } finally {
       setLoading(false);
     }
@@ -37,7 +37,7 @@ const PasswordGate = ({ onAuth }) => {
       <div className="w-full max-w-xs">
         <div className="text-center mb-8">
           <div className="text-5xl mb-4">📺</div>
-          <h1 className="text-2xl font-bold text-white">Netox Player</h1>
+          <h1 className="text-2xl font-bold text-white">Olívio Canais</h1>
         </div>
         <form onSubmit={handleSubmit} className="space-y-4">
           <input
@@ -54,7 +54,7 @@ const PasswordGate = ({ onAuth }) => {
             disabled={loading || !password}
             className="w-full bg-cyan-500 text-black font-semibold rounded-lg py-3 hover:bg-cyan-400 disabled:opacity-50 transition-colors"
           >
-            {loading ? 'Verificando...' : 'Entrar'}
+            {loading ? "Verificando..." : "Entrar"}
           </button>
         </form>
       </div>

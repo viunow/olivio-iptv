@@ -30,7 +30,6 @@ const Player = ({ videoUrl, isEmbed }) => {
           className="w-full h-full rounded-lg"
           allowFullScreen
           allow="autoplay; encrypted-media; fullscreen"
-          sandbox="allow-scripts allow-same-origin allow-forms allow-presentation"
         />
       </div>
     );

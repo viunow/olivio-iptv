@@ -1,0 +1,370 @@
+[
+  {
+    "channel": "paramountplus",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=paramountplus"
+  },
+  {
+    "channel": "primevideo",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=primevideo1"
+  },
+  {
+    "channel": "primevideo2",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=primevideo2"
+  },
+  {
+    "channel": "primevideo3",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=primevideo3"
+  },
+  {
+    "channel": "primevideo4",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=primevideo4"
+  },
+  {
+    "channel": "sportv",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=sportv"
+  },
+  {
+    "channel": "sportv2",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=sportv2"
+  },
+  {
+    "channel": "sportv3",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=sportv3"
+  },
+  {
+    "channel": "espn",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=espn"
+  },
+  {
+    "channel": "espn2",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=espn2"
+  },
+  {
+    "channel": "espn3",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=espn3"
+  },
+  {
+    "channel": "espn4",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=espn4"
+  },
+  {
+    "channel": "espn5",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=espn5"
+  },
+  {
+    "channel": "espn6",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=espn6"
+  },
+  {
+    "channel": "caze1",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=caze1"
+  },
+  {
+    "channel": "caze2",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=caze2"
+  },
+  {
+    "channel": "caze3",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=caze3"
+  },
+  {
+    "channel": "caze4",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=caze4"
+  },
+  {
+    "channel": "premiere",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=premiere"
+  },
+  {
+    "channel": "premiere2",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=premiere2"
+  },
+  {
+    "channel": "premiere3",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=premiere3"
+  },
+  {
+    "channel": "premiere4",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=premiere4"
+  },
+  {
+    "channel": "premiere5",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=premiere5"
+  },
+  {
+    "channel": "premiere6",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=premiere6"
+  },
+  {
+    "channel": "premiere7",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=premiere7"
+  },
+  {
+    "channel": "premiere8",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=premiere8"
+  },
+  {
+    "channel": "nossofutebol",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=nossofutebol"
+  },
+  {
+    "channel": "goat1",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=goat1"
+  },
+  {
+    "channel": "goat2",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=goat2"
+  },
+  {
+    "channel": "goat3",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=goat3"
+  },
+  {
+    "channel": "tnt",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=tnt"
+  },
+  {
+    "channel": "space",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=space"
+  },
+  {
+    "channel": "bandsports",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=bandsports"
+  },
+  {
+    "channel": "combate",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=combate"
+  },
+  {
+    "channel": "ufcfightpass",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=ufcfightpass"
+  },
+  {
+    "channel": "pt_sportv1",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=pt_sportv1"
+  },
+  {
+    "channel": "pt_sportv2",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=pt_sportv2"
+  },
+  {
+    "channel": "pt_sportv3",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=pt_sportv3"
+  },
+  {
+    "channel": "pt_sportv4",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=pt_sportv4"
+  },
+  {
+    "channel": "pt_sportv5",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=pt_sportv5"
+  },
+  {
+    "channel": "pt_eleven1",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=pt_eleven1"
+  },
+  {
+    "channel": "pt_eleven2",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=pt_eleven2"
+  },
+  {
+    "channel": "pt_eleven3",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=pt_eleven3"
+  },
+  {
+    "channel": "pt_eleven4",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=pt_eleven4"
+  },
+  {
+    "channel": "max1",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=max1"
+  },
+  {
+    "channel": "max2",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=max2"
+  },
+  {
+    "channel": "max3",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=max3"
+  },
+  {
+    "channel": "max4",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=max4"
+  },
+  {
+    "channel": "max5",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=max5"
+  },
+  {
+    "channel": "max6",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=max6"
+  },
+  {
+    "channel": "disneyplus1",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=disneyplus1"
+  },
+  {
+    "channel": "disneyplus2",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=disneyplus2"
+  },
+  {
+    "channel": "disneyplus3",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=disneyplus3"
+  },
+  {
+    "channel": "disneyplus4",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=disneyplus4"
+  },
+  {
+    "channel": "disneyplus5",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=disneyplus5"
+  },
+  {
+    "channel": "disneyplus6",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=disneyplus6"
+  },
+  {
+    "channel": "globorj",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=globorj"
+  },
+  {
+    "channel": "globosp",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=globosp"
+  },
+  {
+    "channel": "globors",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=globors"
+  },
+  {
+    "channel": "globomg",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=globomg"
+  },
+  {
+    "channel": "sbt",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=sbt"
+  },
+  {
+    "channel": "band",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=band"
+  },
+  {
+    "channel": "record",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=record"
+  },
+  {
+    "channel": "redetv",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=redetv"
+  },
+  {
+    "channel": "cultura",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=cultura"
+  },
+  {
+    "channel": "axn",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=axn"
+  },
+  {
+    "channel": "cartoonnetwork",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=cartoonnetwork"
+  },
+  {
+    "channel": "comedycentral",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=comedycentral"
+  },
+  {
+    "channel": "discovery_channel_hd",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=discovery_channel_hd"
+  },
+  {
+    "channel": "discoverykids",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=discoverykids"
+  },
+  {
+    "channel": "discoveryturbo",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=discoveryturbo"
+  },
+  {
+    "channel": "hbo",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=hbo"
+  },
+  {
+    "channel": "hbo2",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=hbo2"
+  },
+  {
+    "channel": "hbofamily",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=hbofamily"
+  },
+  {
+    "channel": "hboplus",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=hboplus"
+  },
+  {
+    "channel": "hboxtreme",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=hboxtreme"
+  },
+  {
+    "channel": "hgtv",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=hgtv"
+  },
+  {
+    "channel": "history",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=history"
+  },
+  {
+    "channel": "history2",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=history2"
+  },
+  {
+    "channel": "megapix",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=megapix"
+  },
+  {
+    "channel": "multishow",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=multishow"
+  },
+  {
+    "channel": "nickelodeon",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=nickelodeon"
+  },
+  {
+    "channel": "tlc",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=tlc"
+  },
+  {
+    "channel": "tntnovelas",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=tntnovelas"
+  },
+  {
+    "channel": "tntseries",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=tntseries"
+  },
+  {
+    "channel": "viva",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=viva"
+  },
+  {
+    "channel": "telecinepremium",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=telecinepremium"
+  },
+  {
+    "channel": "telecineaction",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=telecineaction"
+  },
+  {
+    "channel": "telecinepipoca",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=telecinepipoca"
+  },
+  {
+    "channel": "telecinetouch",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=telecinetouch"
+  },
+  {
+    "channel": "telecinefun",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=telecinefun"
+  },
+  {
+    "channel": "telecinecult",
+    "url": "https://outbound-proxy-us-east1-0-blob-usercontent-client-id-3335691497.googleapis.com.do/player3/ch.php?categoria=live&canal=telecinecult"
+  }
+]
